@@ -60,7 +60,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vaporwavy/gatsby-london-after-midnight.git"
+    "url": "git+https://github.com/syedahmedhussaini/alisha-project.git"
   },
   "scripts": {
     "build": "gatsby build",

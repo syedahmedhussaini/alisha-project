@@ -95,7 +95,7 @@ module.exports = {
         icon: `content/assets/gatsby-icon.png`,
       },
     },
-    // `gatsby-plugin-netlify`,
+    `gatsby-plugin-netlify`,
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     'gatsby-plugin-sass',
